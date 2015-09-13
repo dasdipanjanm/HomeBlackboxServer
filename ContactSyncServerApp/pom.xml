@@ -37,6 +37,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>ContactSyncServerApp</finalName>
+		<finalName>ContactSyncServerApp-0.0.1</finalName>
 	</build>
 </project>
