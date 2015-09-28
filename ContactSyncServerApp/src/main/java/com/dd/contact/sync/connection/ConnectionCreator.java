@@ -20,5 +20,10 @@ public abstract class ConnectionCreator {
      * @throws SQLException 
      */
     public abstract Connection getDatabaseConnection() throws SQLException;
+	/**
+     * Method getDatabaseConnection.
+     * @return Connection
+     * @throws SQLException 
+     */
     public abstract void closeDbConnection() throws SQLException;
 }
